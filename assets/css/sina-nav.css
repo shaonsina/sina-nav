@@ -50,6 +50,10 @@
   transition: all 0.3s ease-in-out;
   background: transparent;
 }
+.sina-nav .animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
 .sina-nav .container,
 .sina-nav .container-fluid {
   position: relative;
