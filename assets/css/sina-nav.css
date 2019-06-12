@@ -30,7 +30,7 @@
   margin-bottom: 0;
   border-radius: 0px;
   min-height: 60px;
-  z-index: 999;
+  z-index: 999999;
   left: 0;
   right: 0;
   transition: color, background 0.3s ease-in-out;
